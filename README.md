@@ -40,7 +40,7 @@ This real estate price prediction project utilizes machine learning techniques t
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/NikhilZodape/Projects-Details/blob/main/Real%20estate%20price%20prediction/real-estate-price-prediction-using-ann.ipynb)
 
-![image](https://github.com/NikhilZodape/Portfolio-/assets/120772552/86987e01-3f9c-4f4a-83a9-67ac8ab1b466)
+![image](https://github.com/NikhilZodape/Portfolio-/assets/120772552/830ee6a1-e435-4471-acb7-2f89cc9d552c)
 
 --- 
 
