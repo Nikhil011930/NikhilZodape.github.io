@@ -44,4 +44,15 @@ This real estate price prediction project utilizes machine learning techniques t
 
 --- 
 
+### Customer Segmentation Analysis for Retail Marketing Strategy Optimization
+
+I represent a comprehensive analysis of customer segmentation techniques applied to a retail dataset. By leveraging unsupervised machine learning algorithms such as KMeans clustering and Gaussian Mixture modeling, I unearthed actionable insights crucial for refining retail strategies. Through meticulous exploratory data analysis, I dissected customer demographics, spending behaviors, and income distributions. This deep dive facilitated the identification of six distinct customer segments with unique characteristics and preferences. The strategic significance of customer segmentation in driving retail success. By tailoring marketing efforts and product offerings to specific customer segments, retailers can optimize resource allocation and enhance customer satisfaction. The project underscores the transformative potential of data analytics in shaping retail strategies, showcasing the power of segmentation techniques in unlocking competitive advantages.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/NikhilZodape/Projects-Details/blob/main/Market%20Basket%20analysis/mall-customer-segmentation-using-clustering.ipynb)
+
+![image](https://github.com/NikhilZodape/Portfolio-/assets/120772552/8317857e-4b26-438c-8b37-814002f45b2d)
+
+---
+
+
 
