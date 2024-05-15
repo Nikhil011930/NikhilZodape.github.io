@@ -96,6 +96,7 @@ This project utilizes convolutional neural networks (CNNs) to detect malaria cel
 ### Python, Excel and Tableau:
 1. [Analyzing the Impact of Car Features on Price and Profitability](https://drive.google.com/file/d/1oXWG8w8E3Fpt4I9o_FWgSPFFk1STEH8a/view?usp=drive_link):<br>
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/NikhilZodape/Trainity-Data-Analytics/tree/main/Project_7_Impact%20of%20Car%20Features) <br> [Dashboard](https://public.tableau.com/views/ImpactofCarFeaturesonPriceandProfitability_17060832707050/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
 2. [ABC Call Volume Trend Analysis](https://drive.google.com/file/d/1kbIY6iswFRSoAfJT69Z_fPiWEaHGlmjC/view?usp=drive_link):<br>
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/NikhilZodape/Trainity-Data-Analytics/tree/main/Project_8_ABC_Call_Volume_Trend_Analysis)
 
