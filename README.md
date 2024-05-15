@@ -53,6 +53,26 @@ I represent a comprehensive analysis of customer segmentation techniques applied
 ![image](https://github.com/NikhilZodape/Portfolio-/assets/120772552/8317857e-4b26-438c-8b37-814002f45b2d)
 
 ---
+### Predicting Bike Demand Post-Pandemic for BoomBikes
+Address the critical challenge faced by BoomBikes, a US-based bike-sharing provider, in predicting the demand for shared bikes post-pandemic to boost revenue. Through a meticulous analysis of various factors influencing bike demand, including meteorological data and customer behavior, also developed a multiple linear regression model. This model not only identifies significant variables affecting bike demand but also provides insights into demand dynamics in the American market. By leveraging data analytics, BoomBikes aims to tailor its business strategy to meet customer expectations, optimize service levels, and gain a competitive edge in the market. The model's accuracy enables BoomBikes to forecast demand accurately, thereby enhancing resource allocation and ultimately driving profitability and growth. With this predictive model, BoomBikes can navigate the challenges posed by the pandemic and emerge stronger in the post-pandemic era, ensuring continued success in the competitive bike-sharing market.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/NikhilZodape/Bike-Demand-Post-Pandemic-for-BoomBikes)
+
+![bbk](https://github.com/NikhilZodape/Portfolio-/assets/120772552/4c540cc4-d958-48c4-bfc5-d85302d15e75)
+
+---
+
+### Malaria Cell Detection Using Convolutional Neural Networks
+
+This project utilizes convolutional neural networks (CNNs) to detect malaria cells in microscopic images. The dataset consists of 27,558 images categorized into two folders: Infected and Uninfected. To expedite access to the dataset, it was uploaded for immediate use, bypassing the slow download from the official NIH website. The model is implemented using Python and Keras.
+
+- Outcome: Tis project demonstrates the effectiveness of CNNs in detecting malaria-infected cells, offering a valuable tool for medical diagnosis and research. The optimized model provides accurate classification, aiding in the early detection and treatment of malaria, ultimately contributing to improved healthcare outcomes.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://www.kaggle.com/code/nikszodape/malaria-image-classification-using-cnn)
+
+![2-Figure1-1](https://github.com/NikhilZodape/Portfolio-/assets/120772552/d8f9b308-a5bb-4367-80ad-08e75224ab38)
+
+---
 
 ## Data Analysis Using: 
 
@@ -75,10 +95,19 @@ I represent a comprehensive analysis of customer segmentation techniques applied
 
 ### Python, Excel and Tableau:
 1. [Analyzing the Impact of Car Features on Price and Profitability](https://drive.google.com/file/d/1oXWG8w8E3Fpt4I9o_FWgSPFFk1STEH8a/view?usp=drive_link):<br>
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/NikhilZodape/Trainity-Data-Analytics/tree/main/Project_7_Impact%20of%20Car%20Features) <br> [Tableau Dashboard](https://public.tableau.com/views/ImpactofCarFeaturesonPriceandProfitability_17060832707050/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/NikhilZodape/Trainity-Data-Analytics/tree/main/Project_7_Impact%20of%20Car%20Features) <br> [Dashboard](https://public.tableau.com/views/ImpactofCarFeaturesonPriceandProfitability_17060832707050/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 2. [ABC Call Volume Trend Analysis](https://drive.google.com/file/d/1kbIY6iswFRSoAfJT69Z_fPiWEaHGlmjC/view?usp=drive_link):<br>
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/NikhilZodape/Trainity-Data-Analytics/tree/main/Project_8_ABC_Call_Volume_Trend_Analysis)
-3. AirBNB: [Dashboard](https://public.tableau.com/views/AirbnbCase-study_17065590752230/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+3. [AirBNB](): <br>[Dashboard](https://public.tableau.com/views/AirbnbCase-study_17065590752230/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
 --- 
+
+## Web Scraping Project
+
+--- 
+
+### Book Authors Contact Details and Book Details : <br> 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/NikhilZodape/Books-data-Scalping)
 
 
