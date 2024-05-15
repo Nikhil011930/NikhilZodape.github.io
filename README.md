@@ -54,5 +54,31 @@ I represent a comprehensive analysis of customer segmentation techniques applied
 
 ---
 
+## Data Analysis Using: 
+
+---
+### SQL :
+1. [Instagram User Analytics](https://drive.google.com/file/d/1in2cufIh_hsKzKVkm-K3ubVbRilHPoXC/view?usp=drive_link):<br>
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/NikhilZodape/Trainity-Data-Analytics/tree/main/Project_2_Instagram%20User%20Analytics)
+2. [Operation Analytics and Investigating Metric Spike](https://drive.google.com/file/d/1i73QO-AyRRe9JpiwWe-3dGMTSyV938zK/view?usp=drive_link):<br>
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/NikhilZodape/Trainity-Data-Analytics/tree/main/Project_3_Operation%20Analytics%20and%20Investigating%20Metric%20Spike)
+
+### Excel: 
+1. [Hiring Process Analytics](https://drive.google.com/file/d/1QWryxr1BH1-jN3qRqYfQyCmjsWciUFhG/view?usp=drive_link):<br>
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/NikhilZodape/Trainity-Data-Analytics/tree/main/Project_4_Hiring%20Process%20Analytics)
+
+### Python:
+1. [IMDB Movie Analysis](https://drive.google.com/file/d/12v70XoEB_5jpgUe6p9urhRN8AaEoGO6z/view?usp=drive_link):<br>
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/NikhilZodape/Trainity-Data-Analytics/tree/main/Project_5_IMDB%20Movie%20Analysis) 
+2. [Bank Loan Case Study](https://drive.google.com/file/d/10ofbNl86JoMBYuFKWVmfWHndXbkUmpOJ/view?usp=drive_link):<br>
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/NikhilZodape/Trainity-Data-Analytics/tree/main/Project_6_Bank%20Loan%20Case%20Study)
+
+### Python, Excel and Tableau:
+1. [Analyzing the Impact of Car Features on Price and Profitability](https://drive.google.com/file/d/1oXWG8w8E3Fpt4I9o_FWgSPFFk1STEH8a/view?usp=drive_link):<br>
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/NikhilZodape/Trainity-Data-Analytics/tree/main/Project_7_Impact%20of%20Car%20Features) <br> [Tableau Dashboard](https://public.tableau.com/views/ImpactofCarFeaturesonPriceandProfitability_17060832707050/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+2. [ABC Call Volume Trend Analysis](https://drive.google.com/file/d/1kbIY6iswFRSoAfJT69Z_fPiWEaHGlmjC/view?usp=drive_link):<br>
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/NikhilZodape/Trainity-Data-Analytics/tree/main/Project_8_ABC_Call_Volume_Trend_Analysis)
+3. AirBNB: [Dashboard](https://public.tableau.com/views/AirbnbCase-study_17065590752230/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+--- 
 
 
