@@ -3,6 +3,13 @@
 ## Machine Learning 
 ---
 
+### Lead Scoring Case Study
+X Education sells online courses to industry professionals and markets them on various websites and search engines like Google. Visitors to their site can browse courses, watch videos, or fill out a form to provide contact information, thereby becoming leads. The company also acquires leads through past referrals. The sales team then contacts these leads via calls and emails. However, the lead conversion rate is poor, with only about 30 out of every 100 leads converting. To improve efficiency, X Education aims to identify 'Hot Leads'—those most likely to convert. By focusing the sales team's efforts on these high-potential leads, the company hopes to increase its overall conversion rate. 
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/NikhilZodape/Lead_Scoring_Case_Study)
+
+![image](https://github.com/NikhilZodape/Portfolio/assets/120772552/d7256c26-bb96-42cd-81c7-2b6c9d0216d1)
+---
 ### Churn Prediction for PowerCo
 
 Tasked with understanding and mitigating customer churn for PowerCo, a major gas and electricity utility, our team embarked on a comprehensive investigation leveraging advanced data science techniques. Throughout the project, I honed my skills in Python programming, problem-solving, and communication, gaining valuable hands-on experience in real-world data science applications. `Churn Prediction for PowerCo` exemplifies my ability to leverage data-driven insights to drive strategic decision-making and deliver tangible business outcomes.<be>
